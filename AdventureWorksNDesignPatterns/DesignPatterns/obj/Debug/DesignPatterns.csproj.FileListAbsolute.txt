@@ -1,0 +1,6 @@
+C:\Work\LocalRepository\trunk\MyTrails\DotNet\AdventureWorksService\DesignPatterns\bin\Debug\DesignPatterns.dll
+C:\Work\LocalRepository\trunk\MyTrails\DotNet\AdventureWorksService\DesignPatterns\bin\Debug\DesignPatterns.pdb
+C:\Work\LocalRepository\trunk\MyTrails\DotNet\AdventureWorksService\DesignPatterns\obj\Debug\DesignPatterns.dll
+C:\Work\LocalRepository\trunk\MyTrails\DotNet\AdventureWorksService\DesignPatterns\obj\Debug\DesignPatterns.pdb
+C:\Work\LocalRepository\trunk\MyTrails\DotNet\AdventureWorksService\DesignPatterns\bin\Debug\DesignPatterns.dll.CodeAnalysisLog.xml
+C:\Work\LocalRepository\trunk\MyTrails\DotNet\AdventureWorksService\DesignPatterns\bin\Debug\DesignPatterns.dll.lastcodeanalysissucceeded

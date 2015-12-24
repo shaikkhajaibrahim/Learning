@@ -1,0 +1,9 @@
+C:\Work\LocalRepository\trunk\MyTrails\DotNet\AdventureWorksService\DesignPatternsTest\bin\Debug\DesignPatternsTest.dll
+C:\Work\LocalRepository\trunk\MyTrails\DotNet\AdventureWorksService\DesignPatternsTest\bin\Debug\DesignPatternsTest.pdb
+C:\Work\LocalRepository\trunk\MyTrails\DotNet\AdventureWorksService\DesignPatternsTest\bin\Debug\DesignPatterns.dll
+C:\Work\LocalRepository\trunk\MyTrails\DotNet\AdventureWorksService\DesignPatternsTest\bin\Debug\DesignPatterns.pdb
+C:\Work\LocalRepository\trunk\MyTrails\DotNet\AdventureWorksService\DesignPatternsTest\obj\Debug\DesignPatternsTest.csprojResolveAssemblyReference.cache
+C:\Work\LocalRepository\trunk\MyTrails\DotNet\AdventureWorksService\DesignPatternsTest\obj\Debug\DesignPatternsTest.dll
+C:\Work\LocalRepository\trunk\MyTrails\DotNet\AdventureWorksService\DesignPatternsTest\obj\Debug\DesignPatternsTest.pdb
+C:\Work\LocalRepository\trunk\MyTrails\DotNet\AdventureWorksService\DesignPatternsTest\bin\Debug\DesignPatternsTest.dll.CodeAnalysisLog.xml
+C:\Work\LocalRepository\trunk\MyTrails\DotNet\AdventureWorksService\DesignPatternsTest\bin\Debug\DesignPatternsTest.dll.lastcodeanalysissucceeded

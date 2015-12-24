@@ -1,0 +1,16 @@
+C:\Work\LocalRepository\trunk\MyTrails\DotNet\AdventureWorksService\AdventureWorksBAL\bin\Debug\AdventureWorksBAL.dll.config
+C:\Work\LocalRepository\trunk\MyTrails\DotNet\AdventureWorksService\AdventureWorksBAL\bin\Debug\AdventureWorksBAL.dll
+C:\Work\LocalRepository\trunk\MyTrails\DotNet\AdventureWorksService\AdventureWorksBAL\bin\Debug\AdventureWorksBAL.pdb
+C:\Work\LocalRepository\trunk\MyTrails\DotNet\AdventureWorksService\AdventureWorksBAL\bin\Debug\AdventureWorksDAL.dll
+C:\Work\LocalRepository\trunk\MyTrails\DotNet\AdventureWorksService\AdventureWorksBAL\bin\Debug\AutoMapper.dll
+C:\Work\LocalRepository\trunk\MyTrails\DotNet\AdventureWorksService\AdventureWorksBAL\bin\Debug\EntityFramework.dll
+C:\Work\LocalRepository\trunk\MyTrails\DotNet\AdventureWorksService\AdventureWorksBAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Work\LocalRepository\trunk\MyTrails\DotNet\AdventureWorksService\AdventureWorksBAL\bin\Debug\AdventureWorksDAL.pdb
+C:\Work\LocalRepository\trunk\MyTrails\DotNet\AdventureWorksService\AdventureWorksBAL\bin\Debug\AutoMapper.xml
+C:\Work\LocalRepository\trunk\MyTrails\DotNet\AdventureWorksService\AdventureWorksBAL\bin\Debug\EntityFramework.xml
+C:\Work\LocalRepository\trunk\MyTrails\DotNet\AdventureWorksService\AdventureWorksBAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Work\LocalRepository\trunk\MyTrails\DotNet\AdventureWorksService\AdventureWorksBAL\obj\Debug\AdventureWorksBAL.csprojResolveAssemblyReference.cache
+C:\Work\LocalRepository\trunk\MyTrails\DotNet\AdventureWorksService\AdventureWorksBAL\obj\Debug\AdventureWorksBAL.dll
+C:\Work\LocalRepository\trunk\MyTrails\DotNet\AdventureWorksService\AdventureWorksBAL\obj\Debug\AdventureWorksBAL.pdb
+C:\Work\LocalRepository\trunk\MyTrails\DotNet\AdventureWorksService\AdventureWorksBAL\bin\Debug\AdventureWorksBAL.dll.CodeAnalysisLog.xml
+C:\Work\LocalRepository\trunk\MyTrails\DotNet\AdventureWorksService\AdventureWorksBAL\bin\Debug\AdventureWorksBAL.dll.lastcodeanalysissucceeded
